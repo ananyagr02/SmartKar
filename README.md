@@ -1,11 +1,11 @@
-# 📌 Smartकर – AI-Powered Tax Filing
+# ₹ Smartकर – AI-Powered Tax Filing
 
-## 🚀 Overview
+##  Overview
 **Smartकर** is an AI-driven tax computation tool that helps users choose the best tax regime, optimize deductions, and automate tax filing. It simplifies tax calculations for salaried individuals, professionals, and business owners by analyzing various income sources and applicable deductions.
 
 ---
 
-## 🎯 Key Features
+##  Key Features
 - **Tax Filing for All Categories:** Supports Salaried individuals, Businessmen, Freelancers and Professionals. Allows user to securely upload financial documents.
 - **Multiple Income Sources:** Handles Salary, Capital Gains, Dividends, Rental income, Business Profits etc.
 - **Tax Slab Classification:** Determines applicable tax slabs based on user category.
@@ -19,7 +19,7 @@
 
 ---
 
-## 🏗️ Tech Stack
+##  Tech Stack
 - **Frontend:** React.js, Tailwind CSS
 - **Backend:** Node.js, Express.js, MongoDB
 - **OCR & AI:** Python, Flask, NumPy, Pandas, Tesseract OCR, TensorFlow, Scikit-learn, NLTK, spaCy
@@ -28,16 +28,16 @@
 
 ---
 
-## 📜 Workflow
+##  Workflow
 1️⃣ **User Login & Authentication** → Secure access using JWT & role-based control.  
 2️⃣ **User Uploads Documents** → AI extracts details from Form 16, 26AS, salary slips, and investment proofs.  
-4️⃣ **AI-Powered Processing** → Extracts income, deductions, investments, and rebates. 
-3️⃣ **Dynamic Questionnaire for remaining income and employment details** → User answers simple questions and selects category from: Salaried, Self-Employed, Freelancer, Business Owner, Other.  
-6️⃣ **Tax Computation Engine** → Calculates taxable income, deductions, and total tax.  
-7️⃣ **Best Regime Suggestion (Old vs. New)** → AI recommends the most tax-efficient option.  
-8️⃣ **Anomaly Detection & Validation** → Flags incorrect entries, missing documents, and inconsistencies.  
-9️⃣ **Tax Report Generation & Review** → Generates a tax preview for users to verify.  
-🔟 **Future: Auto-Filing Integration** → Plans API integration for direct filing with government tax portals.  
+3️⃣ **AI-Powered Processing** → Extracts income, deductions, investments, and rebates.  
+4️⃣ **Dynamic Questionnaire for remaining income and employment details** → User answers simple questions and selects a category: Salaried, Self-Employed, Freelancer, Business Owner, Other.  
+5️⃣ **Tax Computation Engine** → Calculates taxable income, deductions, and total tax.  
+6️⃣ **Best Regime Suggestion (Old vs. New)** → AI recommends the most tax-efficient option.  
+7️⃣ **Anomaly Detection & Validation** → Flags incorrect entries, missing documents, and inconsistencies.  
+8️⃣ **Tax Report Generation & Review** → Generates a tax preview for users to verify.  
+9️⃣ **Future: Auto-Filing Integration** → Plans API integration for direct filing with government tax portals.  
 
 ---
 
@@ -46,7 +46,7 @@
 - **Node.js (v16+), MongoDB, Python 3+**
 - **Pip Packages:** `Flask, Tesseract-OCR, PyMuPDF, TensorFlow, Scikit-learn, NLTK, spaCy`
 
-### 📌 Installation
+###  Installation
 #### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/your-username/tax-assistant.git
@@ -100,13 +100,13 @@ npm run dev
 
 ---
 
-## 🔒 Security & Compliance
+##  Security & Compliance
 - **End-to-End Encryption:** AES-256 for documents, JWT for authentication.
 - **AI-Driven Fraud Detection:** Detects anomalies, inconsistencies, and incorrect filings.
 - **Data Privacy:** Users control data, ensuring compliance with data protection laws.
 
 ---
 
-## 👨‍💻 Contributor
+##  Contributor
 - **Ananya Gaur**
 

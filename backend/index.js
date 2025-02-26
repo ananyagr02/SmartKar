@@ -21,11 +21,11 @@ app.use(cors({
 app.use(express.json());
 
 // Static folder for uploaded documents
-app.use("/uploads", express.static("uploads"));
+//app.use("/uploads", express.static("uploads"));
 
 // Routes
 app.use("/api/auth", authRoutes);
-app.use("/api/upload", documentRoutes);
+//app.use("/api/upload", documentRoutes);
 
 // Test Route
 app.get("/api/test", (req, res) => {

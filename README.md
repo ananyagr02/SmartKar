@@ -49,8 +49,8 @@
 ###  Installation
 #### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/tax-assistant.git
-cd tax-assistant
+git clone https://github.com/ananyagr02/SmartKar.git
+cd SmartKar
 ```
 #### 2️⃣ Backend Setup
 ```bash

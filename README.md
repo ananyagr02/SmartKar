@@ -44,7 +44,7 @@
 ![images/LandingPage.png](images/LandingPage.png)
 ![images/Login1.png](images/Login1.png)
 ![images/Register.png](images/Register.png)
-![images/Dasboard.png](images/Dasboard.png)
+![images/Dashboard.png](images/Dashboard.png)
 ![images/Doc-up.png](images/Doc-up.png)
 
 ## Setup & Installation

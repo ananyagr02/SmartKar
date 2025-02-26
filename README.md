@@ -1,7 +1,7 @@
-# 📌 Tax Assistant – AI-Powered Tax Filing System
+# ₹ Smartकर – AI-Powered Tax Filing Assistant
 
 ## 🚀 Overview
-**Tax Assistant** is an AI-powered tax filing system that automates tax computations, document processing (OCR), deduction optimization, and error detection. It helps employees in India efficiently file their taxes while ensuring compliance with the latest tax laws.
+**Smartकर** is an AI-powered tax filing system that automates tax computations, document processing (OCR), deduction optimization, and error detection. It helps employees in India efficiently file their taxes while ensuring compliance with the latest tax laws.
 
 This project was developed as a **MERN stack application** with **Python-based OCR and AI-driven tax recommendations**. It includes **secure document uploads with AES-256 encryption**, automated tax computation, and government API integrations.
 

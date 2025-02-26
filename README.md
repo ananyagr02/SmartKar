@@ -1,4 +1,4 @@
-# ₹ Smartकर – AI-Powered Tax Filing
+# ₹ Smartकर – AI-Powered Tax Filing Assistant
 
 ##  Overview
 **Smartकर** is an AI-driven tax computation tool that helps users choose the best tax regime, optimize deductions, and automate tax filing. It simplifies tax calculations for salaried individuals, professionals, and business owners by analyzing various income sources and applicable deductions.
